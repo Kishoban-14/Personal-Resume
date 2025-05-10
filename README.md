@@ -1,2 +1,2 @@
 # Personal-Resume
-Created with HTML
+Created with HTML and styled with CSS
